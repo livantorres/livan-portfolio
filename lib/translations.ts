@@ -94,7 +94,7 @@ export const translations = {
       alertText: "Se abrirá WhatsApp para que envíes tu mensaje directamente a Livan.",
     },
     footer: {
-      developed: "Desarrollado por: Livan Torres Núñez",
+      developed: "Desarrollado por: Livan Torres Núñez | InnovRed",
       rights: "Todos los derechos reservados",
     },
   },
@@ -191,7 +191,7 @@ export const translations = {
       alertText: "WhatsApp will open so you can send your message directly to Livan.",
     },
     footer: {
-      developed: "Developed by: Livan Torres Núñez",
+      developed: "Developed by: Livan Torres Núñez | InnovRed",
       rights: "All rights reserved",
     },
   },
@@ -288,7 +288,7 @@ export const translations = {
       alertText: "O WhatsApp será aberto para que você envie sua mensagem diretamente para Livan.",
     },
     footer: {
-      developed: "Desenvolvido por: Livan Torres Núñez",
+      developed: "Desenvolvido por: Livan Torres Núñez | InnovRed",
       rights: "Todos os direitos reservados",
     },
   },
